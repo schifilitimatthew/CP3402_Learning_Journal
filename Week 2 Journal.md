@@ -28,4 +28,4 @@ In the week's content I learnt how to install and create webpages through joomla
 
 # Career/Employability/Learning Insights
 
-I learnt to that presistance is key when trying to over come obstacles and rely my other ways of learning such as resorting the second source such as online videos.
+I learnt to that presistance is key when trying to over come obstacles and rely my other ways of learning such as resorting the second source such as online videos. This was evident when I was attempt to install and upload the website.
